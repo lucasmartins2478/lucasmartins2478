@@ -46,5 +46,5 @@
 
 <br clear="both">
 
-
+![Snake animation](https://github.com/lucasmartins2478/lucasmartins2478/blob/output/github-contribution-grid-snake.svg)
 ###
