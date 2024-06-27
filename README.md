@@ -1,10 +1,11 @@
 ## Olá! meu nome é Lucas Martins
 
 ###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f4887&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Martins!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Entusiasta+da+Tecnologia!;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
-<div align="center">
-<img <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmartins2478&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartins2478&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: inline_block" align="center">
+ <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasmartins2478&show_icons=true&theme=dracula"/> 
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmartins2478&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ###
