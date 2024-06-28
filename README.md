@@ -1,5 +1,3 @@
-## Olá! meu nome é Lucas Martins
-
 ###
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f4887&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Martins!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Entusiasta+da+Tecnologia!;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
