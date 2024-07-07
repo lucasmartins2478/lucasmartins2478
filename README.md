@@ -1,5 +1,5 @@
 ###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f4887&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Martins!;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas.;Entusiasta+da+Tecnologia!;Seja+Bem-vindo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f4887&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas+Martins!;Estudante+de+ADS+na+Facens.;Entusiasta+da+Tecnologia!;Seja+Bem-vindo!)](https://git.io/typing-svg)
 
 <div style="display: inline_block" align="center">
  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucasmartins2478&show_icons=true&theme=dracula"/> 
